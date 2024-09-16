@@ -1,0 +1,133 @@
+[1] "2024-09-12 19:15:28"
+ReactomePA v1.48.0  For help: https://yulab-smu.top/biomedical-knowledge-mining-book/
+
+If you use ReactomePA in published research, please cite:
+Guangchuang Yu, Qing-Yu He. ReactomePA: an R/Bioconductor package for reactome pathway analysis and visualization. Molecular BioSystems 2016, 12(2):477-479
+clusterProfiler v4.12.6 Learn more at https://yulab-smu.top/contribution-knowledge-mining/
+
+Please cite:
+
+Guangchuang Yu, Li-Gen Wang, Yanyan Han and Qing-Yu He. clusterProfiler: an R package for comparing biological
+themes among gene clusters. OMICS: A Journal of Integrative Biology. 2012, 16(5):284-287
+
+Attache Paket: ‘clusterProfiler’
+
+Das folgende Objekt ist maskiert ‘package:stats’:
+
+    filter
+
+begin  R1881 vs CTRL[1] "2024-09-12 19:15:28"
+
+'select()' returned 1:1 mapping between keys and columns
+Lade nötiges Paket: org.Hs.eg.db
+Lade nötiges Paket: AnnotationDbi
+Lade nötiges Paket: stats4
+Lade nötiges Paket: BiocGenerics
+
+Attache Paket: ‘BiocGenerics’
+
+Das folgende Objekt ist maskiert ‘package:limma’:
+
+    plotMA
+
+Die folgenden Objekte sind maskiert von ‘package:dplyr’:
+
+    combine, intersect, setdiff, union
+
+Die folgenden Objekte sind maskiert von ‘package:stats’:
+
+    IQR, mad, sd, var, xtabs
+
+Die folgenden Objekte sind maskiert von ‘package:base’:
+
+    anyDuplicated, aperm, append, as.data.frame, basename, cbind, colnames, dirname, do.call, duplicated, eval,
+    evalq, Filter, Find, get, grep, grepl, intersect, is.unsorted, lapply, Map, mapply, match, mget, order,
+    paste, pmax, pmax.int, pmin, pmin.int, Position, rank, rbind, Reduce, rownames, sapply, setdiff, table,
+    tapply, union, unique, unsplit, which.max, which.min
+
+Lade nötiges Paket: Biobase
+Welcome to Bioconductor
+
+    Vignettes contain introductory material; view with 'browseVignettes()'. To cite Bioconductor, see
+    'citation("Biobase")', and for packages 'citation("pkgname")'.
+
+Lade nötiges Paket: IRanges
+Lade nötiges Paket: S4Vectors
+
+Attache Paket: ‘S4Vectors’
+
+Das folgende Objekt ist maskiert ‘package:clusterProfiler’:
+
+    rename
+
+Die folgenden Objekte sind maskiert von ‘package:dplyr’:
+
+    first, rename
+
+Das folgende Objekt ist maskiert ‘package:tidyr’:
+
+    expand
+
+Das folgende Objekt ist maskiert ‘package:utils’:
+
+    findMatches
+
+Die folgenden Objekte sind maskiert von ‘package:base’:
+
+    expand.grid, I, unname
+
+
+Attache Paket: ‘IRanges’
+
+Das folgende Objekt ist maskiert ‘package:clusterProfiler’:
+
+    slice
+
+Die folgenden Objekte sind maskiert von ‘package:dplyr’:
+
+    collapse, desc, slice
+
+Das folgende Objekt ist maskiert ‘package:grDevices’:
+
+    windows
+
+
+Attache Paket: ‘AnnotationDbi’
+
+Das folgende Objekt ist maskiert ‘package:clusterProfiler’:
+
+    select
+
+Das folgende Objekt ist maskiert ‘package:dplyr’:
+
+    select
+
+using 'fgsea' for GSEA analysis, please cite Korotkevich et al (2019).
+
+preparing geneSet collections...
+GSEA analysis...
+leading edge analysis...
+done...
+finished  R1881 vs CTRL[1] "2024-09-12 19:16:04"
+begin  Enza vs CTRL[1] "2024-09-12 19:16:04"
+'select()' returned 1:1 mapping between keys and columns
+using 'fgsea' for GSEA analysis, please cite Korotkevich et al (2019).
+
+preparing geneSet collections...
+GSEA analysis...
+leading edge analysis...
+done...
+finished  Enza vs CTRL[1] "2024-09-12 19:16:40"
+begin  C6 vs CTRL[1] "2024-09-12 19:16:40"
+'select()' returned 1:1 mapping between keys and columns
+using 'fgsea' for GSEA analysis, please cite Korotkevich et al (2019).
+
+preparing geneSet collections...
+GSEA analysis...
+leading edge analysis...
+done...
+finished  C6 vs CTRL[1] "2024-09-12 19:17:16"
+Es gab 49 Warnungen (Anzeige mit warnings())
+[1] "2024-09-12 19:17:16"
+[1] "startet 2024-09-12 19:15:28 and finished 2024-09-12 19:17:16"
+Time difference of 1.8 mins

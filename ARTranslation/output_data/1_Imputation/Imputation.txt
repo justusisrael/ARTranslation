@@ -1,0 +1,24 @@
+[1] "2024-09-12 19:05:28"
+starting Imputation 
+  missForest iteration 1 in progress...done!
+    estimated error(s): 0.1087679 
+    difference(s): 0.0001413906 
+    time: 156.74 seconds
+
+  missForest iteration 2 in progress...done!
+    estimated error(s): 0.1070841 
+    difference(s): 1.811956e-07 
+    time: 148.11 seconds
+
+  missForest iteration 3 in progress...done!
+    estimated error(s): 0.1071692 
+    difference(s): 8.50773e-08 
+    time: 145.93 seconds
+
+  missForest iteration 4 in progress...done!
+    estimated error(s): 0.1072568 
+    difference(s): 8.849601e-08 
+    time: 146.43 seconds
+
+finished Imputation 
+[1] "2024-09-12 19:15:26"
