@@ -4,8 +4,8 @@ Justus S. Israel<sup>1</sup>, Laura-Maria Marcelin<sup>1</sup>, Sherif Mehraliva
 
 <sup>1</sup>Department of Urology, Faculty of Medicine, University Hospital Carl Gustav Carus, Technische Universität Dresden, 01307 Dresden, Germany. <br>
 <sup>2</sup>UroFors Consortium (Natural Scientists in Urological Research), German Society of Urology, 14163 Berlin, Germany. <br>
-<sup>3</sup>Department of Gynecology and Gynecological Oncology, University Hospital Bonn, 53127 Bonn, Germany  <br>
-<sup>4</sup>Department of Urology, Medical University of Innsbruck, 6020 Innsbruck, Austria. Martin.Puhr@i-med.ac.at  <br>
+<sup>3</sup>Department of Gynecology and Gynecological Oncology, University Hospital Bonn, 53127 Bonn, Germany.  <br>
+<sup>4</sup>Department of Urology, Medical University of Innsbruck, 6020 Innsbruck, Austria. <br>
 <sup>5</sup>German Cancer Consortium (DKTK), Partner Site Dresden and German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany. <br>
 
 ## Additional information
