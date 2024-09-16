@@ -1,4 +1,4 @@
-# ARTranslation
+# The Impact of Androgen-Induced Translation in Modulating Androgen Receptor Activity
 
 Justus S. Israel<sup>1</sup>, Laura-Maria Marcelin<sup>1</sup>, Sherif Mehralivand<sup>1</sup>, Jana Scholze<sup>1</sup>, Jörg Hofmann<sup>1</sup>, Matthias B. Stope<sup>2,3</sup>, Martin Puhr<sup>4</sup>, Christian Thomas<sup>1</sup>, Holger H.H. Erb<sup>1,2,5</sup>
 
