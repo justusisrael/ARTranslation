@@ -11,3 +11,5 @@ Justus S. Israel<sup>1</sup>, Laura-Maria Marcelin<sup>1</sup>, Sherif Mehraliva
 ## Additional information
 
 If you want to reproduce the results, you can download the folder PCaSilentPartners, create a R project and read files in or run the analysis. Folders for images do exist but are not uploaded due to image size.
+
+[![DOI](https://zenodo.org/badge/858257586.svg)](https://zenodo.org/doi/10.5281/zenodo.13769867)
